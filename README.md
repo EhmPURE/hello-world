@@ -1,2 +1,2 @@
-# hello-world-
-#A *simple* repository and **README** file.
+# hello-world
+# A *simple* repository and **README** file.
